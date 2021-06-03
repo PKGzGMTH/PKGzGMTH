@@ -1,16 +1,17 @@
-### Hi there 👋
+![alt text](https://github.com/PKGzGMTH/PKGzGMTH/blob/main/git.png)
+<p align="center">
+  <a href="https://peakungg.medium.com/">Medium.com</a> • 
+  <a href="https://www.youtube.com/PKGztv">Youtube</a> • 
+  <a href="https://www.facebook.com/peakungg">Facebook</a> • 
+  <a href="https://github.com/PKGzGMTH/chia-auto-plot">Chia Auto Plot</a> 
+</p>
 
-<!--
-**PKGzGMTH/PKGzGMTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ¯\_(ツ)_/¯
+- 🌱 I’m currently learning Python and not start RUST yet
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Python RaspberryPi and RUST
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Youtube Channel](https://www.youtube.com/PKGztv)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm just 18 Years old and not study at university yet.
+
