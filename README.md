@@ -8,8 +8,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PKGzGMTH&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+- 📚 I'm studying at Kasetsart University Sriracha Campus
 - 🔭 I’m currently working on ¯ \\ _( ツ )_ / ¯
 - 🌱 I’m currently learning Python and not start RUST yet
 - 🤔 I’m looking for help with Python RaspberryPi and RUST
 - ⚡ Fun fact: I'm just 18 Years old and not study at university yet.
-
