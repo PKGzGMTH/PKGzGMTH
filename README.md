@@ -12,4 +12,4 @@
 - 🔭 I’m currently working on ¯ \\ _( ツ )_ / ¯
 - 🌱 I’m currently learning Python and not start RUST yet
 - 🤔 I’m looking for help with Python RaspberryPi and RUST
-- ⚡ Fun fact: I'm just 18 Years old and not study at university yet.
+- ⚡ Fun fact: Not now
