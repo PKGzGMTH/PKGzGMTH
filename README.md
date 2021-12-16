@@ -12,7 +12,7 @@
 
 ![readme stat](https://github-readme-stats.vercel.app/api/top-langs?username=PKGzGMTH&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/2214logoColor=white%26project=%26recentMS=0%26showProject=false&color=informational)
+![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/2214?logoColor=white%26project=%26recentMS=0%26showProject=false&color=informational)
 
 - 📚 I'm studying at Kasetsart University Sriracha Campus
 - 🔭 I’m currently working on ¯ \\ _( ツ )_ / ¯
